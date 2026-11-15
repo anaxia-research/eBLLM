@@ -1,10 +1,10 @@
 {
   "schema": "anaxia-public-portfolio-v1",
-  "captured_on": "2026-11-14",
-  "repository_count": 198,
-  "readme_count": 192,
+  "captured_on": "2026-11-15",
+  "repository_count": 206,
+  "readme_count": 200,
   "release_count": 110,
-  "fork_count": 70,
+  "fork_count": 78,
   "assessment": "Reading a source records its claims; it does not certify its proofs. No private repositories or credentials are included.",
   "repositories": [
     {
@@ -27,7 +27,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Lattice strong-coupling results and a conditional continuum programme. Uniform physical-scale cube contraction and a nontrivial continuum construction remain obligations; no full Yang-Mills closure is certified here.",
       "scope_note_commit": "5ca904fd842845689f706a88840f293eb9bdbf4f",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "aaronson-ambainis",
@@ -43,7 +44,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "academic-humanizer",
@@ -59,7 +61,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "advanced-reasoning-mcp",
@@ -75,7 +78,24 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "29bc37fb1118e0a69132420dac586175165a7067"
+      "scope_note_commit": "29bc37fb1118e0a69132420dac586175165a7067",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "agency-agents",
+      "url": "https://github.com/creelie/agency-agents",
+      "commit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "fork": true,
+      "archived": false,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "pushed_at": "2026-11-09T00:27:04Z",
+      "readme_url": "https://github.com/creelie/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/README.md",
+      "readme_blob_sha": "5c59c078e3388ec5af5b134ff2137aca42cd7555",
+      "readme_excerpt": "# 🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. [![Git",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "agent-second-brain",
@@ -88,6 +108,23 @@
       "readme_url": "https://github.com/creelie/agent-second-brain/blob/7828ed62cf76aae87bee7f2660468ab88495cf3d/README.md",
       "readme_blob_sha": "4384bde5cf4d22f28287339d5f230707112a5eb9",
       "readme_excerpt": "Agent Second Brain An always-on second brain you talk to. Voice note in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on a $5 VPS and the Claude subscription you already pay for — zero per-token API bills. 🇷🇺 Русский • Полная инструкция • VPS guide • autograph engine --- > [!I",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "agentic-ai-apis",
+      "url": "https://github.com/creelie/agentic-ai-apis",
+      "commit": "60d8179a89e185c80d52f94077010fde3629edaa",
+      "fork": true,
+      "archived": false,
+      "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+      "pushed_at": "2026-11-14T19:57:46Z",
+      "readme_url": "https://github.com/creelie/agentic-ai-apis/blob/60d8179a89e185c80d52f94077010fde3629edaa/README.md",
+      "readme_blob_sha": "e77c1a427fb8ff75162da9e2b44c5ff0bff4cb23",
+      "readme_excerpt": "[![GitHub stars](https://img.shields.io/github/stars/cporter202/agentic-ai-apis?style=for-the-badge)](https://github.com/cporter202/agentic-ai-apis/stargazers) [![GitHub forks](https://img.shields.io/github/forks/cporter202/agentic-ai-apis?style=for-the-badge)](https://github.com/cporter202/agentic-",
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
@@ -107,7 +144,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a6d20a93c7c5b7430bf42d2367701b350513e90d"
+      "scope_note_commit": "a6d20a93c7c5b7430bf42d2367701b350513e90d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ai-memory",
@@ -123,7 +161,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "airllm",
@@ -139,7 +178,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b0b1a7efc033360e1d9e799f14287b8d4fe154bc"
+      "scope_note_commit": "b0b1a7efc033360e1d9e799f14287b8d4fe154bc",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "alphaproof-nexus-results",
@@ -155,7 +195,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "0647711a71183c1ea492ad60860776617ce1ea88"
+      "scope_note_commit": "0647711a71183c1ea492ad60860776617ce1ea88",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Anaxia",
@@ -168,6 +209,23 @@
       "readme_url": "https://github.com/creelie/Anaxia/blob/5616e1391e261091682ccaf1c4d4c308a4898c27/README.md",
       "readme_blob_sha": "2635be46b7fe4c78650df413ab2d27779d33a5ff",
       "readme_excerpt": "English · हिन्दी · বাংলা · Español · Français · 简体中文 # Anaxia Anaxia studies mathematical conjectures using exact arithmetic, reproducible experiments, and optional model proposals. Each result records the statement, its domain, and the evidence a reader can check. The exact tools run on Python's st",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "animate",
+      "url": "https://github.com/creelie/animate",
+      "commit": "7e5eb56feb2dd573f890e1b7b34748af43d58263",
+      "fork": true,
+      "archived": false,
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "pushed_at": "2026-10-05T20:31:48Z",
+      "readme_url": "https://github.com/creelie/animate/blob/7e5eb56feb2dd573f890e1b7b34748af43d58263/README.md",
+      "readme_blob_sha": "c409111ba7a6709d728bafacbbd9aacfdc8bf300",
+      "readme_excerpt": "# Animate — procedural animation in any style, for Claude Code A Claude Code skill that makes short animated videos entirely in code: one ` `, drawn and scored procedurally, deterministic frame by frame, rendered to MP4 with a headless browser and ffmpeg. Explainers, histories, little stories — in o",
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
@@ -187,7 +245,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "351ca8422f7b5b54e80a9c1ce03a222e02415b6b"
+      "scope_note_commit": "351ca8422f7b5b54e80a9c1ce03a222e02415b6b",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "AS-2",
@@ -208,7 +267,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "AS-3",
@@ -230,7 +290,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "AS-4",
@@ -246,7 +307,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "AS-X",
@@ -267,7 +329,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "automatic-memory",
@@ -288,7 +351,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "465931b71d1bda04bd6c79461e8edc9af64bbacd"
+      "scope_note_commit": "465931b71d1bda04bd6c79461e8edc9af64bbacd",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "awesome-fly",
@@ -304,7 +368,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "awesome-ML-in-plasma-physics",
@@ -320,7 +385,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "baez-duarte-kalman",
@@ -341,7 +407,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3f241e34358b6e26ca3b6e627243a738409155e6"
+      "scope_note_commit": "3f241e34358b6e26ca3b6e627243a738409155e6",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "brane-cluster-gases",
@@ -362,7 +429,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "4eac7cbf921574c8173797838e813d1b41ac8ead"
+      "scope_note_commit": "4eac7cbf921574c8173797838e813d1b41ac8ead",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "brane-cluster-gravity",
@@ -383,7 +451,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Breakthrough-problems-1",
@@ -404,7 +473,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3c3598e2c3d563947e91c85e913c0b701d50ed8b"
+      "scope_note_commit": "3c3598e2c3d563947e91c85e913c0b701d50ed8b",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Breakthrough-problems-2",
@@ -425,7 +495,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "463b65c26bb5c91ba341e7ff4ae1711001d0a556"
+      "scope_note_commit": "463b65c26bb5c91ba341e7ff4ae1711001d0a556",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Breakthrough-problems-3",
@@ -447,7 +518,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports a universal log-log character-sum bound and a reproduced zero-free argument credited to its original source. This catalogue does not independently verify that zero-free argument or the universal claim.",
       "scope_note_commit": "b445cbda91c36d6f07d48bcdd74e52808653f781",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "buggy-spaces-noncompact-calabi-yau",
@@ -468,7 +540,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "dbc5a50eef87bcb532cd1200c34a084e2ba77903"
+      "scope_note_commit": "dbc5a50eef87bcb532cd1200c34a084e2ba77903",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "cautious-fishstick",
@@ -489,7 +562,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "1519d4a467b1a9c5352851b5b0d29ef5f5d15784"
+      "scope_note_commit": "1519d4a467b1a9c5352851b5b0d29ef5f5d15784",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "CFSG",
@@ -505,7 +579,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "69cb972f587a3ecc035e092253167ff2e303c962"
+      "scope_note_commit": "69cb972f587a3ecc035e092253167ff2e303c962",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "chester-2",
@@ -527,7 +602,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "chromobius",
@@ -543,7 +619,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "e2d8d4b2c0d2afb3d1d47a53bc4638ffcc1846c5"
+      "scope_note_commit": "e2d8d4b2c0d2afb3d1d47a53bc4638ffcc1846c5",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "chronology",
@@ -559,7 +636,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8ee12b0e0bd49bb85d67a196993730d0cef39164"
+      "scope_note_commit": "8ee12b0e0bd49bb85d67a196993730d0cef39164",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Cirq",
@@ -575,7 +653,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3006c4c50463fcf6b526cb978719c4b08ec5dca5"
+      "scope_note_commit": "3006c4c50463fcf6b526cb978719c4b08ec5dca5",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "claude-audits-quantum-gravity",
@@ -591,7 +670,24 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "ed297e428fc0999815296c5585208e17381a0ffd"
+      "scope_note_commit": "ed297e428fc0999815296c5585208e17381a0ffd",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "claude-code-templates",
+      "url": "https://github.com/creelie/claude-code-templates",
+      "commit": "8c9a4a2c4a12a3010a0d26eddd3c40e7cef16af1",
+      "fork": true,
+      "archived": false,
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "pushed_at": "2026-11-15T03:34:56Z",
+      "readme_url": "https://github.com/creelie/claude-code-templates/blob/8c9a4a2c4a12a3010a0d26eddd3c40e7cef16af1/README.md",
+      "readme_blob_sha": "b864c222fcf46acfe603d565aa8a2260372d64a3",
+      "readme_excerpt": "Claude Code Templates An open catalog of components for Claude Code, installable with one command. Browse the catalog &nbsp;·&nbsp; Documentation &nbsp;·&nbsp; Contributing &nbsp;·&nbsp; Discussions &nbsp;·&nbsp; Changelog SPONSORED BY Swiftproxy proudly supports this project. Connect your AI-powere",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "claude-second-brain",
@@ -607,7 +703,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "COG-second-brain",
@@ -623,7 +720,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "colibri",
@@ -639,7 +737,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "congenial-robot",
@@ -660,7 +759,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "268c1a024cf6b2b281d38a7504eaf5053cde8e46"
+      "scope_note_commit": "268c1a024cf6b2b281d38a7504eaf5053cde8e46",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "congenial-waddle",
@@ -681,7 +781,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "02576f2e4030f8a6233a4892b7e5d59f981e52b3"
+      "scope_note_commit": "02576f2e4030f8a6233a4892b7e5d59f981e52b3",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Conjecture-001",
@@ -702,7 +803,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "d910b59afb43ef165895e9bc349a1ac169f84539"
+      "scope_note_commit": "d910b59afb43ef165895e9bc349a1ac169f84539",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Conjecture-002",
@@ -723,7 +825,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a4a5f4fbf2b5754237652fb93d0421a85759b804"
+      "scope_note_commit": "a4a5f4fbf2b5754237652fb93d0421a85759b804",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Conjecture-Random-OpenAI",
@@ -739,7 +842,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "6128e49c724f3a37d9b36b70870fcbfedd7aad71"
+      "scope_note_commit": "6128e49c724f3a37d9b36b70870fcbfedd7aad71",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "conjecture-to-choose",
@@ -760,7 +864,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "06cbbb7e2737e1a11085b64e0ead021d63c550c3"
+      "scope_note_commit": "06cbbb7e2737e1a11085b64e0ead021d63c550c3",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "cs-grav",
@@ -781,7 +886,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3b9a3767aa637295f79d6f2d21db2b2d4f5b3576"
+      "scope_note_commit": "3b9a3767aa637295f79d6f2d21db2b2d4f5b3576",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D-",
@@ -797,7 +903,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b8bd37b72ced46bb2d52fef583b8656a29019d3c"
+      "scope_note_commit": "b8bd37b72ced46bb2d52fef583b8656a29019d3c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D-1",
@@ -813,7 +920,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "6d92e8d415933ca2ef52fd1a4da73fdfcd418f1c"
+      "scope_note_commit": "6d92e8d415933ca2ef52fd1a4da73fdfcd418f1c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D-2",
@@ -829,7 +937,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "e7e48a6d30e7f0ddf0ed1909a594a1f0cfe2c2b7"
+      "scope_note_commit": "e7e48a6d30e7f0ddf0ed1909a594a1f0cfe2c2b7",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D-3",
@@ -845,7 +954,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3fe2618870808d8c20912ab8b5aff80af275a1de"
+      "scope_note_commit": "3fe2618870808d8c20912ab8b5aff80af275a1de",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "d-D",
@@ -867,7 +977,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "d-dome-enrique",
@@ -884,7 +995,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D4-D24-Hales--D3--Viazovska",
@@ -905,7 +1017,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c30178750a4026a4683db1cdd2e6e184c5d5be5b"
+      "scope_note_commit": "c30178750a4026a4683db1cdd2e6e184c5d5be5b",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "d4-voronoi-cells",
@@ -927,7 +1040,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "4c2502776457a4a463bdfe6b7f41c90c54f05113",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D5",
@@ -948,7 +1062,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "855da3e6b80cc4aafbbbce974dac6742c02c4268"
+      "scope_note_commit": "855da3e6b80cc4aafbbbce974dac6742c02c4268",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "D7",
@@ -969,7 +1084,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "dbbee243b647930855a322478266263091291530"
+      "scope_note_commit": "dbbee243b647930855a322478266263091291530",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "DD",
@@ -990,7 +1106,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ddd",
@@ -1011,7 +1128,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "didactic-lamp",
@@ -1032,7 +1150,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2c5513e7cc004765018e4691f214fa3b20ecb9c4"
+      "scope_note_commit": "2c5513e7cc004765018e4691f214fa3b20ecb9c4",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "diophantine-z-q",
@@ -1048,7 +1167,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Donaldson_Algorithm",
@@ -1064,7 +1184,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "0adb4c00e164b8f926401cd9195f0300b11fc820"
+      "scope_note_commit": "0adb4c00e164b8f926401cd9195f0300b11fc820",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "DS-1",
@@ -1085,7 +1206,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "DS-2",
@@ -1106,7 +1228,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "e84hc",
@@ -1128,7 +1251,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "14f906c64e57114cf369f2fb70ea6191ed569c96",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eBLLM",
@@ -1150,7 +1274,7 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "a85ae17fdf77796cdedd17d98558f4269b3771d5",
-      "monitoring_note": "Managed workspace: preserve its pinned research snapshot to avoid self-generated catalogue commits causing a refresh loop. OpenGluon separately tracks the live Anaxia source pin."
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eCon",
@@ -1171,7 +1295,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "81c88e66f5c8505f6e95a378413f1fdec3105e0c"
+      "scope_note_commit": "81c88e66f5c8505f6e95a378413f1fdec3105e0c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjectureGPParity",
@@ -1187,7 +1312,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c38156ee7f0a8946341acedad7da19a1c6f19082"
+      "scope_note_commit": "c38156ee7f0a8946341acedad7da19a1c6f19082",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjectureLinkIrregular",
@@ -1208,7 +1334,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "ddf7ec21d19596529f82b9c85bf05bfe5de1d590"
+      "scope_note_commit": "ddf7ec21d19596529f82b9c85bf05bfe5de1d590",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjecturePrimitiveTrinomial",
@@ -1230,7 +1357,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "8bed534a2dc27fde8856bb218a28885f64e6fd2a",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjectureTauMaximal",
@@ -1251,7 +1379,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "18735553691225b4fc8e58bffcc9a7f1985118ed"
+      "scope_note_commit": "18735553691225b4fc8e58bffcc9a7f1985118ed",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjectureWelchSumFree",
@@ -1272,7 +1401,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports a general theorem for every odd n >= 7 with an exact counting formula. The source distinguishes its written proof from supplementary finite checks.",
-      "scope_note_commit": "82de9dcb574a1525c331e042eeb1625544621cf9"
+      "scope_note_commit": "82de9dcb574a1525c331e042eeb1625544621cf9",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eConjectureWOWII66",
@@ -1293,7 +1423,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "41d43fc8a3232cac6d2871e666d6379cdfb9064f"
+      "scope_note_commit": "41d43fc8a3232cac6d2871e666d6379cdfb9064f",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eCY",
@@ -1314,7 +1445,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8bb76c135bc95baf2d2ef2bf2a7c4848ef14cb52"
+      "scope_note_commit": "8bb76c135bc95baf2d2ef2bf2a7c4848ef14cb52",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eD424",
@@ -1335,7 +1467,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "85927e067e7d3732f12d971ee87e475df8342cd3"
+      "scope_note_commit": "85927e067e7d3732f12d971ee87e475df8342cd3",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "efieldsMedal",
@@ -1356,7 +1489,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "351b93c5443e590cf34f0b348ded159c552dfa56"
+      "scope_note_commit": "351b93c5443e590cf34f0b348ded159c552dfa56",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eLhmr",
@@ -1377,7 +1511,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "A sixteen-prime-factor lower bound and exact prime-completion criteria are reported. The release explicitly leaves the full Lehmer totient conjecture unproved.",
-      "scope_note_commit": "0cccef6b11f5a504da8a5500af06894d9e343aed"
+      "scope_note_commit": "0cccef6b11f5a504da8a5500af06894d9e343aed",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eno-1",
@@ -1398,7 +1533,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eno-2",
@@ -1420,7 +1556,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "entroptics-mass-gap",
@@ -1436,7 +1573,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eNvrs",
@@ -1457,7 +1595,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "90891c0f927f8c2d8a2643b1a38001ce31bcdb2c"
+      "scope_note_commit": "90891c0f927f8c2d8a2643b1a38001ce31bcdb2c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Erdos-1183",
@@ -1478,7 +1617,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2842ef3a58604a8f4b35271d5753c2bf9bdecd0b"
+      "scope_note_commit": "2842ef3a58604a8f4b35271d5753c2bf9bdecd0b",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Erdos-6-...-",
@@ -1499,7 +1639,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2f90bebf7a77ce55b1ba8abb7b5b6b191090bf80"
+      "scope_note_commit": "2f90bebf7a77ce55b1ba8abb7b5b6b191090bf80",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Erdos-s1",
@@ -1520,7 +1661,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2f9939014eaff360a60315656b34d967c3e27f53"
+      "scope_note_commit": "2f9939014eaff360a60315656b34d967c3e27f53",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "erdos-sar",
@@ -1541,7 +1683,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "84e9c8c79613f3a8ae0f43fb127833e77e84e5b1"
+      "scope_note_commit": "84e9c8c79613f3a8ae0f43fb127833e77e84e5b1",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ErdosProblem1",
@@ -1562,7 +1705,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "ec2b26b10baca065d7488c302850a57c34396b90"
+      "scope_note_commit": "ec2b26b10baca065d7488c302850a57c34396b90",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Erodos-breakthroug",
@@ -1583,7 +1727,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b73dd54114f0a65ff16fdd15a3a19ccf431a3c0c"
+      "scope_note_commit": "b73dd54114f0a65ff16fdd15a3a19ccf431a3c0c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Erodos-breakthrough",
@@ -1599,7 +1744,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "57b5a0227471122bec6a9639a471612e1b7a2e34"
+      "scope_note_commit": "57b5a0227471122bec6a9639a471612e1b7a2e34",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ETH--",
@@ -1615,7 +1761,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "eUUR",
@@ -1636,7 +1783,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "aa658666fd48f92983778946f6c538dbbc270e17"
+      "scope_note_commit": "aa658666fd48f92983778946f6c538dbbc270e17",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "fermat-hodge-",
@@ -1658,7 +1806,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "The current release explicitly leaves F2, F3-prime and the Hodge conjecture open.",
       "scope_note_commit": "c8b9feb359a0ef0873e197685074ffaadc6e990c",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "fermats-last-theorem-Machine",
@@ -1674,7 +1823,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "6e837e75355538c7f80bab5b956861e86c4eacc2"
+      "scope_note_commit": "6e837e75355538c7f80bab5b956861e86c4eacc2",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ff-1",
@@ -1695,7 +1845,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ff-2",
@@ -1712,7 +1863,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ff-3",
@@ -1733,6 +1885,23 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "floorplan",
+      "url": "https://github.com/creelie/floorplan",
+      "commit": "1ab7e19c8772800b6fbc9453b92d93efb52ddb37",
+      "fork": true,
+      "archived": false,
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "pushed_at": "2026-11-15T04:40:31Z",
+      "readme_url": "https://github.com/creelie/floorplan/blob/1ab7e19c8772800b6fbc9453b92d93efb52ddb37/README.md",
+      "readme_blob_sha": "3b0275fce012d216d5ffd9d747a65cfb423e7045",
+      "readme_excerpt": "# Floorplan **See how your app actually fits together.** Claude or Codex reads your codebase and draws an interactive map of it. Every part, file and web request gets a plain-English name, and every connection between them is shown. [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-p",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null
     },
     {
@@ -1749,7 +1918,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "6fbde3bfdf4ff55c6759f3eb549457402569a945"
+      "scope_note_commit": "6fbde3bfdf4ff55c6759f3eb549457402569a945",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "fortuity-ai",
@@ -1765,7 +1935,24 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "4256f207986029540060fb44dd494746828f65ce"
+      "scope_note_commit": "4256f207986029540060fb44dd494746828f65ce",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "free-claude-code",
+      "url": "https://github.com/creelie/free-claude-code",
+      "commit": "75dbb038f8062a07d29db119af1f4ad7880f9142",
+      "fork": true,
+      "archived": false,
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "pushed_at": "2026-11-15T03:39:35Z",
+      "readme_url": "https://github.com/creelie/free-claude-code/blob/75dbb038f8062a07d29db119af1f4ad7880f9142/README.md",
+      "readme_blob_sha": "306bc21514c7ed9cc46c0997d915369eac48e21a",
+      "readme_excerpt": "[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE) [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.pyt",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "fuzzy-guacamole",
@@ -1786,7 +1973,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "5a9e81b8cba81fd2209300c3dc42b32cbd14d1a7"
+      "scope_note_commit": "5a9e81b8cba81fd2209300c3dc42b32cbd14d1a7",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "gbrain",
@@ -1802,7 +1990,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "geometric-selection-conjecture",
@@ -1823,7 +2012,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Research on geometric selection. An explicit vacuum satisfying all nine conditions is not independently established by this catalogue.",
-      "scope_note_commit": "016775c44f9647e57699d45509738ddca290e9b6"
+      "scope_note_commit": "016775c44f9647e57699d45509738ddca290e9b6",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "grundy-strong-product",
@@ -1844,7 +2034,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "f79f4b2e1d676f3781918c867a86429a76df9d6e"
+      "scope_note_commit": "f79f4b2e1d676f3781918c867a86429a76df9d6e",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "gsc",
@@ -1865,7 +2056,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "The current README concerns passive phase-shift costs. The repository name must not be interpreted as evidence of an all-nine-condition string vacuum.",
-      "scope_note_commit": "ce91e080a4450378633a77287c2a59f9c6c71264"
+      "scope_note_commit": "ce91e080a4450378633a77287c2a59f9c6c71264",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "H8",
@@ -1886,7 +2078,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a1c27fc29f5f74458ca2b8f4d2f24e38f1b2eaf8"
+      "scope_note_commit": "a1c27fc29f5f74458ca2b8f4d2f24e38f1b2eaf8",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Hacking-TOM",
@@ -1902,7 +2095,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "9dc776cbf773571da029a60eec3e26ca3fb35c9f"
+      "scope_note_commit": "9dc776cbf773571da029a60eec3e26ca3fb35c9f",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Hodge-Conjecture-Full",
@@ -1923,7 +2117,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2ee6680fefb8ad6e1c4bfc899a6a6991bf9c768f"
+      "scope_note_commit": "2ee6680fefb8ad6e1c4bfc899a6a6991bf9c768f",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "hodge-odd-fermat-fourfolds",
@@ -1939,7 +2134,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "hopf",
@@ -1956,7 +2152,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "c6f64baa0d8511744a8d402038579153e8833881",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "HyperSkill",
@@ -1972,7 +2169,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a34978aa7439d2eff7ccc3d2ad5372b34d285bd5"
+      "scope_note_commit": "a34978aa7439d2eff7ccc3d2ad5372b34d285bd5",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "j-1",
@@ -1994,7 +2192,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "j-2",
@@ -2016,7 +2215,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "j-3",
@@ -2038,7 +2238,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "j-4",
@@ -2055,7 +2256,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "j-5",
@@ -2077,7 +2279,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "k3-involutions",
@@ -2098,7 +2301,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Kimi-K3",
@@ -2114,7 +2318,24 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "3cb39dfd32e51c3328e2e4b4af21341247d06c43"
+      "scope_note_commit": "3cb39dfd32e51c3328e2e4b4af21341247d06c43",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "kimi-k3-in-c",
+      "url": "https://github.com/creelie/kimi-k3-in-c",
+      "commit": "81bb6c23ccee2154bc35cad922588ab66494a9a9",
+      "fork": true,
+      "archived": false,
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "pushed_at": "2026-10-02T04:51:44Z",
+      "readme_url": "https://github.com/creelie/kimi-k3-in-c/blob/81bb6c23ccee2154bc35cad922588ab66494a9a9/README.md",
+      "readme_blob_sha": "4286dfa7a57365cd9f6ea7895e189ace5ce4c591",
+      "readme_excerpt": "kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB checkpoint on disk 8.24 GB peak RSS, measured 176 KB the whole engine 0 GPUs The same 2.78-trillion-parameter model, the same answer, on what",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "kshadow-coverage",
@@ -2135,7 +2356,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "e49e59b072c97a136633092eefcea0e343c2c59c"
+      "scope_note_commit": "e49e59b072c97a136633092eefcea0e343c2c59c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab001dm",
@@ -2151,7 +2373,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b1db91af5b4d2f3a24466f4632a3e5e1b0829cca"
+      "scope_note_commit": "b1db91af5b4d2f3a24466f4632a3e5e1b0829cca",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab002dm",
@@ -2167,7 +2390,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "f5de0ede8430809180254ee957abf36ed62579ef"
+      "scope_note_commit": "f5de0ede8430809180254ee957abf36ed62579ef",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab003dm",
@@ -2183,7 +2407,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "1c4ec9c7056fd8bbb21dc04726f41cdfee5dcb4a"
+      "scope_note_commit": "1c4ec9c7056fd8bbb21dc04726f41cdfee5dcb4a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab004dm",
@@ -2199,7 +2424,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "f78413ae6980b2bf61b3ab77d74e118b89bd19a8"
+      "scope_note_commit": "f78413ae6980b2bf61b3ab77d74e118b89bd19a8",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab005dm",
@@ -2215,7 +2441,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "99f3085bcb40514cdba7833205b3dedbf473b26d"
+      "scope_note_commit": "99f3085bcb40514cdba7833205b3dedbf473b26d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab006dm",
@@ -2231,7 +2458,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "7f8ce68d7c8efe5c7b2c7151c20d0c1a33319d7d"
+      "scope_note_commit": "7f8ce68d7c8efe5c7b2c7151c20d0c1a33319d7d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab007dm",
@@ -2247,7 +2475,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a20b018300da57a26578f8e7442b890193950afa"
+      "scope_note_commit": "a20b018300da57a26578f8e7442b890193950afa",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab008dm",
@@ -2263,7 +2492,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "14b36754fce25ea8c202ca4f828082f84f03edc2"
+      "scope_note_commit": "14b36754fce25ea8c202ca4f828082f84f03edc2",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab009dm",
@@ -2279,7 +2509,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b0d8867eec8c8ff22f5d927b3725b1123459fe3d"
+      "scope_note_commit": "b0d8867eec8c8ff22f5d927b3725b1123459fe3d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "lab010dm",
@@ -2295,7 +2526,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "d2e3afe62098611fabd7236998acc73f64e4b3b7"
+      "scope_note_commit": "d2e3afe62098611fabd7236998acc73f64e4b3b7",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "LeanMillenniumPrizeProblems",
@@ -2311,7 +2543,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "603053dc267cf3efe422f438eb78098c0ececd6f"
+      "scope_note_commit": "603053dc267cf3efe422f438eb78098c0ececd6f",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Lehmer-1-2",
@@ -2332,7 +2565,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8b03cba4e73459eb94d6967538fcea764aa3703e"
+      "scope_note_commit": "8b03cba4e73459eb94d6967538fcea764aa3703e",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Lhmr2",
@@ -2354,7 +2588,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "literate-octo-lamp",
@@ -2375,7 +2610,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "e3e0580c63fdfee8678b398fca0a12ade2956987"
+      "scope_note_commit": "e3e0580c63fdfee8678b398fca0a12ade2956987",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "LongChang",
@@ -2391,7 +2627,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "b9f2072daefb253cfe9ff687c4c48213ed889f3d"
+      "scope_note_commit": "b9f2072daefb253cfe9ff687c4c48213ed889f3d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "malecns",
@@ -2407,7 +2644,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Math-repo1",
@@ -2424,7 +2662,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "920b76581440008bdf116db25198d059bf2e4e94",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "math01-openAI",
@@ -2445,7 +2684,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a"
+      "scope_note_commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "McCarty",
@@ -2467,7 +2707,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "7564fa5863e5f015eee2c62e74cfc61eee26f247",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "mh-phys",
@@ -2488,7 +2729,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "5980724da886d530fd9dcf6fac5f9698fcea574a"
+      "scope_note_commit": "5980724da886d530fd9dcf6fac5f9698fcea574a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Millenium-prize-problem-quant-Closure-",
@@ -2504,7 +2746,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8a06102c6cc257574e3bd54bd8b77cc95e7b0196"
+      "scope_note_commit": "8a06102c6cc257574e3bd54bd8b77cc95e7b0196",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "musical-rotary-phone",
@@ -2525,7 +2768,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "707851049e3f39937d291f2651f80ff6f2a4186c"
+      "scope_note_commit": "707851049e3f39937d291f2651f80ff6f2a4186c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "NavierStokesAndEuler",
@@ -2546,7 +2790,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "f9e8bc5b38b6e212696e8a30e3e91517af887bbd"
+      "scope_note_commit": "f9e8bc5b38b6e212696e8a30e3e91517af887bbd",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ncm",
@@ -2562,7 +2807,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c70274273f489abc73832b2b98584a8483b6b203"
+      "scope_note_commit": "c70274273f489abc73832b2b98584a8483b6b203",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Nielsen-and-Semita-Riemann-Proof-in-Lean4",
@@ -2578,7 +2824,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "nyman-beurling-approximation",
@@ -2599,7 +2846,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "odd-antihole",
@@ -2620,7 +2868,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports a general written proof for every odd antihole, with formal and finite checks of stated scope. It is indexed as a reported theorem, not as a fresh independent audit.",
-      "scope_note_commit": "23f900928f6330c8fc23965f3cbfe8551ca62d49"
+      "scope_note_commit": "23f900928f6330c8fc23965f3cbfe8551ca62d49",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "oneill-calabi-yau-curvature",
@@ -2642,7 +2891,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "225c456a774f802eff0eda0f18b3f3e52cc2d38c",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "open-second-brain",
@@ -2658,7 +2908,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "OpenFermion",
@@ -2674,7 +2925,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "34adf3196cd566f4ca53893f868753786797ae2a"
+      "scope_note_commit": "34adf3196cd566f4ca53893f868753786797ae2a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "OpenGluon",
@@ -2713,7 +2965,24 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "49c3bd996ae18ccf9294572b631f20fe77ed6df0",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "openworker",
+      "url": "https://github.com/creelie/openworker",
+      "commit": "ecb445490fc054d52b8ea610d97ba947f57033d2",
+      "fork": true,
+      "archived": false,
+      "description": "",
+      "pushed_at": "2026-11-14T00:34:18Z",
+      "readme_url": "https://github.com/creelie/openworker/blob/ecb445490fc054d52b8ea610d97ba947f57033d2/README.md",
+      "readme_blob_sha": "123a6b4ec60cfd5c8c32ad79eb8bec74c694e311",
+      "readme_excerpt": "OpenWorker A Desktop App for everyday work. A Harness SDK to power your AI ideas. openworker.com · Desktop App · Harness SDK · Issues Use the **OpenWorker Desktop App** to research, write, review code, and carry out tasks across the tools you already use. Or build your own agentic desktop and web ap",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "Paper-Conjecture",
@@ -2734,7 +3003,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_1",
@@ -2756,7 +3026,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports an explicit counterexample family with unbounded strong-product ratios for the Grundy domination number; preserve the stated family and quantifiers.",
       "scope_note_commit": "f0519c23efc95fe1c2c4ac812533183c0ac8115c",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_10",
@@ -2778,7 +3049,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "b3b15207e5a49a772387308fefb07d45125c5701",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_11",
@@ -2800,7 +3072,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "9840c47886064cc33c48f5e0630be36f18b74493",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_2",
@@ -2821,7 +3094,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports the exact maximum five for nilpotent-free subspaces of M3(F3). The upper bound uses exhaustive computation and documented native-evaluation trust; this is not a standard-axioms-only kernel proof.",
-      "scope_note_commit": "0e28b2414ff77d19899ac9bf278f904ad0834a16"
+      "scope_note_commit": "0e28b2414ff77d19899ac9bf278f904ad0834a16",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_3",
@@ -2842,7 +3116,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports an all-length written classification of even-intersecting path families. The accompanying Lean theorems cover finite ranges only.",
-      "scope_note_commit": "fa7b1272459c6f61f0ed964c5d9b05800ca101ff"
+      "scope_note_commit": "fa7b1272459c6f61f0ed964c5d9b05800ca101ff",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_4",
@@ -2863,7 +3138,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "9e6ba364fd2fe3ab05ca7e12d9aa3a7caee76569"
+      "scope_note_commit": "9e6ba364fd2fe3ab05ca7e12d9aa3a7caee76569",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_5",
@@ -2885,7 +3161,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "d719e816a5bf1366534c76fa1ed6e0124ccfbe56",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_6",
@@ -2906,7 +3183,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "9e66b188746252325c749c6ceb9bb50ca144de61"
+      "scope_note_commit": "9e66b188746252325c749c6ceb9bb50ca144de61",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_7",
@@ -2927,7 +3205,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports a graph 4-invariant extending the sl(2) weight system at c=-3/32, and further spin-representation identities.",
-      "scope_note_commit": "b62c54c292a555a96ea7a92d64d2903ea8c65765"
+      "scope_note_commit": "b62c54c292a555a96ea7a92d64d2903ea8c65765",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_8",
@@ -2948,7 +3227,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Reports two general determinant and asymptotic identities for Wormald tournament conjectures. Finite checks supplement the written argument.",
-      "scope_note_commit": "7dd3f359212f3d25564085c023445746bbf22762"
+      "scope_note_commit": "7dd3f359212f3d25564085c023445746bbf22762",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Paper_9",
@@ -2970,7 +3250,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "bc80c261460933af664b1eea090c044c6dc80f0b",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "PaperBanana",
@@ -2986,7 +3267,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "f1da3db8d5f4c3add947dfd3ddd93dddd3394dc3"
+      "scope_note_commit": "f1da3db8d5f4c3add947dfd3ddd93dddd3394dc3",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Poincar-conjecture-lean-verification-full-Julia-Shell-C-C-",
@@ -3007,7 +3289,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8cdf88cd530fdef664d9682f804058a0bbc88a73"
+      "scope_note_commit": "8cdf88cd530fdef664d9682f804058a0bbc88a73",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "probable-fortnight",
@@ -3023,7 +3306,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "09e97e57bf9fc43d9852aa46b7bea3af2ad3aed2"
+      "scope_note_commit": "09e97e57bf9fc43d9852aa46b7bea3af2ad3aed2",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "probable-octo-palm-tree",
@@ -3044,7 +3328,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "bafae531c393219f623efd228bf07604d5d10499"
+      "scope_note_commit": "bafae531c393219f623efd228bf07604d5d10499",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "product-influence",
@@ -3065,7 +3350,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "prompt-eng-interactive-tutorial",
@@ -3081,7 +3367,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "PvsNP",
@@ -3103,7 +3390,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "qsim",
@@ -3119,7 +3407,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "241569e539d35f99e9e1f6c1cdb87218adeced8d"
+      "scope_note_commit": "241569e539d35f99e9e1f6c1cdb87218adeced8d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "quadratic-residue",
@@ -3140,7 +3429,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "143b7373b21cde92728e93bd80f09c341a4a03b8"
+      "scope_note_commit": "143b7373b21cde92728e93bd80f09c341a4a03b8",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Qualtran",
@@ -3156,7 +3446,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c9025be9e376ae36e76db38b5ab72e951f4fa6d4"
+      "scope_note_commit": "c9025be9e376ae36e76db38b5ab72e951f4fa6d4",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "QuanT.NT",
@@ -3172,7 +3463,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2c34263e904e42196a059090733da06e2513b784"
+      "scope_note_commit": "2c34263e904e42196a059090733da06e2513b784",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "quantum",
@@ -3188,7 +3480,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "4d95ba205babbada0e81109ae63ba29ecfe6aa48"
+      "scope_note_commit": "4d95ba205babbada0e81109ae63ba29ecfe6aa48",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Quantum--Gravity-David-Chester",
@@ -3204,7 +3497,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "dd8352ed63ed143702f6910d01698f8b844acaa4"
+      "scope_note_commit": "dd8352ed63ed143702f6910d01698f8b844acaa4",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "quanty-framework",
@@ -3225,7 +3519,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "9e8508ff289a387528be8ad56dd7a7117304381d"
+      "scope_note_commit": "9e8508ff289a387528be8ad56dd7a7117304381d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "rea",
@@ -3246,7 +3541,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "refactored-waddle",
@@ -3267,7 +3563,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "eaccd94dc2b4ac7128cb54d4dd81f6fafcca83f1"
+      "scope_note_commit": "eaccd94dc2b4ac7128cb54d4dd81f6fafcca83f1",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ricci",
@@ -3283,7 +3580,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "106fef2f6a9ec550026cd117ce2e3683b9de1c08"
+      "scope_note_commit": "106fef2f6a9ec550026cd117ce2e3683b9de1c08",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Riemann-H",
@@ -3299,7 +3597,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "358e23a407bcff49b5085408a015a210f00b2eb0"
+      "scope_note_commit": "358e23a407bcff49b5085408a015a210f00b2eb0",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "RuView",
@@ -3315,7 +3614,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "5728b90949e60e3f908d996997d453147c1794e0"
+      "scope_note_commit": "5728b90949e60e3f908d996997d453147c1794e0",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "scaling-pancake",
@@ -3336,7 +3636,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "612dfe3e14787e8e571bc576f458d27cf01f2e75"
+      "scope_note_commit": "612dfe3e14787e8e571bc576f458d27cf01f2e75",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "seed",
@@ -3357,7 +3658,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Release v2.0.0 reports 22 <= D4 <= 50 relative to the supplied census and a complete chain replay. The exact maximum remains open. The replay was not rerun for this catalogue.",
-      "scope_note_commit": "5e5f514e449324993636a1146df863c7ee4dbcb7"
+      "scope_note_commit": "5e5f514e449324993636a1146df863c7ee4dbcb7",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Sendov-deg-10",
@@ -3379,7 +3681,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "sensor-resilience-certificates",
@@ -3400,7 +3703,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a3c0ed20133431a30fed5c1d76c95c0dd147372a"
+      "scope_note_commit": "a3c0ed20133431a30fed5c1d76c95c0dd147372a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "seti",
@@ -3416,7 +3720,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c9d4bd8a37283ed86a3b35841f1a8448d9e9808d"
+      "scope_note_commit": "c9d4bd8a37283ed86a3b35841f1a8448d9e9808d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "shiny-bassoon-AnnalsOfMath",
@@ -3438,7 +3743,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "67172d2f895d709c8e0c0d49ad7cff9ba264510f",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "silver-system",
@@ -3454,7 +3760,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "5109db823a4484553f290e6612f16712dd3f912d"
+      "scope_note_commit": "5109db823a4484553f290e6612f16712dd3f912d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Stim",
@@ -3470,7 +3777,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "ffe0d043598ed5df0851a3e6b4920359a23fafbd"
+      "scope_note_commit": "ffe0d043598ed5df0851a3e6b4920359a23fafbd",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "strings",
@@ -3491,7 +3799,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "2f39bd8ff9ac01df93394ec3e4a7453a8a21546a"
+      "scope_note_commit": "2f39bd8ff9ac01df93394ec3e4a7453a8a21546a",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "super-bassoon-fieldsMedal2",
@@ -3513,7 +3822,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "8850e19c322f7c1da983897a44593d2535142980",
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "ten-proofs",
@@ -3529,7 +3839,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6"
+      "scope_note_commit": "94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "tesseract-decoder",
@@ -3545,7 +3856,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "838d4f64acc16b5c15adda01302a719400329d4b"
+      "scope_note_commit": "838d4f64acc16b5c15adda01302a719400329d4b",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "The-Birch-and-Swinnerton-Dyer-BSD-conjecture",
@@ -3567,7 +3879,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "trureturing-OpenRefute",
@@ -3583,7 +3896,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "fa35d5b92f08d07c133bfdb44ecc1966ee2247a3"
+      "scope_note_commit": "fa35d5b92f08d07c133bfdb44ecc1966ee2247a3",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "twisted-hodge-ci",
@@ -3599,7 +3913,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "c821b37f6c478730c54f028e1ff68d67b1b1b78c"
+      "scope_note_commit": "c821b37f6c478730c54f028e1ff68d67b1b1b78c",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "unitary",
@@ -3615,7 +3930,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "a5eea27be2d7ea32f55751f8ef845c766ca0f2d1"
+      "scope_note_commit": "a5eea27be2d7ea32f55751f8ef845c766ca0f2d1",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "urban-chainsaw",
@@ -3636,7 +3952,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "0ecee4ef93aba3e8ff6d7ae0dd7659162716700e"
+      "scope_note_commit": "0ecee4ef93aba3e8ff6d7ae0dd7659162716700e",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "voronoi-d7",
@@ -3657,7 +3974,8 @@
       },
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "wormhole",
@@ -3679,7 +3997,8 @@
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
       "scope_note_commit": null,
-      "scope_note_requires_review": true
+      "scope_note_requires_review": true,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "xerj",
@@ -3695,7 +4014,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8920c06ce590bc21de6505864d707f69bcbc4fdf"
+      "scope_note_commit": "8920c06ce590bc21de6505864d707f69bcbc4fdf",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "Yang--Mills-LLM-experiment",
@@ -3711,7 +4031,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "1b92bd0347e3b8763cd8ecc1f96dc3c2a92dd310"
+      "scope_note_commit": "1b92bd0347e3b8763cd8ecc1f96dc3c2a92dd310",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "yang-mills-4d-forest-certificate",
@@ -3727,7 +4048,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "8576ca29a1980c6eaf55a8c5c9d59bf9cc3629ca"
+      "scope_note_commit": "8576ca29a1980c6eaf55a8c5c9d59bf9cc3629ca",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "YM",
@@ -3743,7 +4065,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
-      "scope_note_commit": null
+      "scope_note_commit": null,
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     },
     {
       "name": "zeta-simple-zeros",
@@ -3759,7 +4082,8 @@
       "latest_release": null,
       "review_status": "source-recorded-not-independently-audited",
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
-      "scope_note_commit": "040c5e899e658aed7b56a2a87f501798fe10761d"
+      "scope_note_commit": "040c5e899e658aed7b56a2a87f501798fe10761d",
+      "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Public research portfolio
 
-Public source snapshot: 2026-11-15. 206 repositories; 200 READMEs; 110 stable releases.
+Public source snapshot: 2026-11-20. 207 repositories; 201 READMEs; 110 stable releases.
 
 Source claims retain their original authors and hypotheses. No entry is an independent proof audit. A scope note marked for review belongs to an earlier commit.
 
@@ -146,6 +146,7 @@ Source claims retain their original authors and hypotheses. No entry is an indep
 | [mh-phys](https://github.com/creelie/mh-phys) | [v1.3.0](https://github.com/creelie/mh-phys/releases/tag/v1.3.0) | [5980724da8](https://github.com/creelie/mh-phys/tree/5980724da886d530fd9dcf6fac5f9698fcea574a) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [Millenium-prize-problem-quant-Closure-](https://github.com/creelie/Millenium-prize-problem-quant-Closure-) | No stable release | [8a06102c6c](https://github.com/creelie/Millenium-prize-problem-quant-Closure-/tree/8a06102c6cc257574e3bd54bd8b77cc95e7b0196) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [musical-rotary-phone](https://github.com/creelie/musical-rotary-phone) | [v2.0.0](https://github.com/creelie/musical-rotary-phone/releases/tag/v2.0.0) | [707851049e](https://github.com/creelie/musical-rotary-phone/tree/707851049e3f39937d291f2651f80ff6f2a4186c) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
+| [navier-stokes-claude](https://github.com/creelie/navier-stokes-claude) | No stable release | [ad53419de0](https://github.com/creelie/navier-stokes-claude/tree/ad53419de079eb8f95f60313473374624a348546) | New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review. |
 | [NavierStokesAndEuler](https://github.com/creelie/NavierStokesAndEuler) | [v1.0.0](https://github.com/creelie/NavierStokesAndEuler/releases/tag/v1.0.0) | [f9e8bc5b38](https://github.com/creelie/NavierStokesAndEuler/tree/f9e8bc5b38b6e212696e8a30e3e91517af887bbd) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [ncm](https://github.com/creelie/ncm) | No stable release | [c70274273f](https://github.com/creelie/ncm/tree/c70274273f489abc73832b2b98584a8483b6b203) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [Nielsen-and-Semita-Riemann-Proof-in-Lean4](https://github.com/creelie/Nielsen-and-Semita-Riemann-Proof-in-Lean4) | No stable release | [4532fb4410](https://github.com/creelie/Nielsen-and-Semita-Riemann-Proof-in-Lean4/tree/4532fb4410ffeed655a165cbb77032b8b4882e54) | New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review. |

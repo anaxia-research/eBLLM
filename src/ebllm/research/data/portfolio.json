@@ -1,10 +1,10 @@
 {
   "schema": "anaxia-public-portfolio-v1",
-  "captured_on": "2026-11-15",
-  "repository_count": 206,
-  "readme_count": 200,
+  "captured_on": "2026-11-20",
+  "repository_count": 207,
+  "readme_count": 201,
   "release_count": 110,
-  "fork_count": 78,
+  "fork_count": 79,
   "assessment": "Reading a source records its claims; it does not certify its proofs. No private repositories or credentials are included.",
   "repositories": [
     {
@@ -2770,6 +2770,22 @@
       "scope_note": "Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope.",
       "scope_note_commit": "707851049e3f39937d291f2651f80ff6f2a4186c",
       "monitoring_note": "Absent from the latest public inventory; previous snapshot retained, not deleted."
+    },
+    {
+      "name": "navier-stokes-claude",
+      "url": "https://github.com/creelie/navier-stokes-claude",
+      "commit": "ad53419de079eb8f95f60313473374624a348546",
+      "fork": true,
+      "archived": false,
+      "description": "",
+      "pushed_at": "2026-11-20T13:33:18Z",
+      "readme_url": "https://github.com/creelie/navier-stokes-claude/blob/ad53419de079eb8f95f60313473374624a348546/README.md",
+      "readme_blob_sha": "1297e1e8515c94a08c4bb4ec56ff609cee98ef51",
+      "readme_excerpt": "# Finite-time blow-up for the Navier–Stokes equations This repository holds the paper *Finite-time blow-up for the Navier–Stokes equations* by L. Alpöge and T. Buckmaster and the Lean 4 formalization that accompanies it. ## Contents - `paper/finite-time-blow-up-navier-stokes.pdf`: the paper (79 page",
+      "latest_release": null,
+      "review_status": "source-recorded-not-independently-audited",
+      "scope_note": "New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review.",
+      "scope_note_commit": null
     },
     {
       "name": "NavierStokesAndEuler",

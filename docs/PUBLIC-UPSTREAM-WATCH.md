@@ -4,7 +4,7 @@ The source-refresh workflow polls these public inventories hourly, including new
 
 | Owner | Public repositories |
 | --- | --- |
-| [creelie](https://github.com/creelie) | 9 |
+| [creelie](https://github.com/creelie) | 10 |
 | [google](https://github.com/google) | 2947 |
 | [google-deepmind](https://github.com/google-deepmind) | 425 |
 | [quantumlib](https://github.com/quantumlib) | 17 |

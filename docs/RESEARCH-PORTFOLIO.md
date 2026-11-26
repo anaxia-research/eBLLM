@@ -1,6 +1,6 @@
 # Public research portfolio
 
-Public source snapshot: 2026-11-20. 207 repositories; 201 READMEs; 110 stable releases.
+Public source snapshot: 2026-11-26. 208 repositories; 202 READMEs; 110 stable releases.
 
 Source claims retain their original authors and hypotheses. No entry is an independent proof audit. A scope note marked for review belongs to an earlier commit.
 
@@ -107,6 +107,7 @@ Source claims retain their original authors and hypotheses. No entry is an indep
 | [fuzzy-guacamole](https://github.com/creelie/fuzzy-guacamole) | [v2.0.0](https://github.com/creelie/fuzzy-guacamole/releases/tag/v2.0.0) | [5a9e81b8cb](https://github.com/creelie/fuzzy-guacamole/tree/5a9e81b8cba81fd2209300c3dc42b32cbd14d1a7) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [gbrain](https://github.com/creelie/gbrain) | No stable release | [7def3e4b94](https://github.com/creelie/gbrain/tree/7def3e4b94d45038f7bad8c0835334dc06cdce94) | New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review. |
 | [geometric-selection-conjecture](https://github.com/creelie/geometric-selection-conjecture) | [v3.4.0](https://github.com/creelie/geometric-selection-conjecture/releases/tag/v3.4.0) | [016775c44f](https://github.com/creelie/geometric-selection-conjecture/tree/016775c44f9647e57699d45509738ddca290e9b6) | Research on geometric selection. An explicit vacuum satisfying all nine conditions is not independently established by this catalogue. |
+| [grh-lean](https://github.com/creelie/grh-lean) | No stable release | [72fead102f](https://github.com/creelie/grh-lean/tree/72fead102f663d5c7a407964a13dc0cf9d977207) | New public source: metadata and short excerpts recorded. Its mathematical claims require their own proof review. |
 | [grundy-strong-product](https://github.com/creelie/grundy-strong-product) | [v1.0.0](https://github.com/creelie/grundy-strong-product/releases/tag/v1.0.0) | [f79f4b2e1d](https://github.com/creelie/grundy-strong-product/tree/f79f4b2e1d676f3781918c867a86429a76df9d6e) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |
 | [gsc](https://github.com/creelie/gsc) | [v2.0.0](https://github.com/creelie/gsc/releases/tag/v2.0.0) | [ce91e080a4](https://github.com/creelie/gsc/tree/ce91e080a4450378633a77287c2a59f9c6c71264) | The current README concerns passive phase-shift costs. The repository name must not be interpreted as evidence of an all-nine-condition string vacuum. |
 | [H8](https://github.com/creelie/H8) | [v5.1.0](https://github.com/creelie/H8/releases/tag/v5.1.0) | [a1c27fc29f](https://github.com/creelie/H8/tree/a1c27fc29f5f74458ca2b8f4d2f24e38f1b2eaf8) | Source metadata, README and latest release were read. Any mathematical claim retains its original hypotheses and verification scope. |

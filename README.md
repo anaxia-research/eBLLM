@@ -7,7 +7,7 @@
 
 | Source memory | Construction atlas | Exact arithmetic |
 | --- | --- | --- |
-| **207** public repository snapshots | **14** routes with explicit obligations | Rational **LDLᵀ** certificates |
+| **208** public repository snapshots | **14** routes with explicit obligations | Rational **LDLᵀ** certificates |
 | Pinned commits and release links | Hypotheses and failure tests | Independent reconstruction |
 
 ```sh
